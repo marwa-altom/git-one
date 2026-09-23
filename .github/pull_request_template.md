@@ -13,3 +13,7 @@
 ## Verification
 
 <!-- How did you verify the change and that existing behavior is not broken? -->
+
+- [ ] Ran an AI-assisted impact/regression check on this diff
+- [ ] Added/updated a test, or explained above why one isn't warranted
+- [ ] Other verification steps (describe below)
